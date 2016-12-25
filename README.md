@@ -54,4 +54,5 @@ git merge [the-branch-to-merge-from eg joe]
 
 If there is a conflict, there will be unstaged changes, so fix files, add them to stagging, then test your code, then
 
+git commit
 git push
