@@ -1,4 +1,4 @@
-# test
+# Github Tutorial
 Just learning git yo!
 
 # git tutorial
